@@ -1,0 +1,13 @@
+
+.postSection {
+    border: 1px solid rgb(202, 199, 199);
+    margin: 1em;
+    padding: 1em;
+    text-align: start;
+    border-radius: 15px;
+    background-color: white;
+}
+.headline{
+    display: flex;
+    justify-content: space-between;
+}

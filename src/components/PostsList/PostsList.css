@@ -1,0 +1,7 @@
+.postsContainer{
+    width: 60vw;
+    height: 60vh;
+    background-color: white;
+    border: 1px solid #d7d3d3;
+    overflow-y: scroll;
+}

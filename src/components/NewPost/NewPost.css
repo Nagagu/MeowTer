@@ -1,0 +1,21 @@
+.newPostInput{
+    width: 93%;
+    height: 10vh;
+    background-color:"red";
+    border: 1px solid #cac7c7;
+    border-radius: 10px;
+    padding-left: 1vw;
+    margin-left: 1vw;
+    margin-bottom: 2vh;
+}
+.newPostContainer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3vh
+}
+.sendButton{
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    margin: 1vw ;
+}
