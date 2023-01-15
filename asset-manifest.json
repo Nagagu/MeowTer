@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.84e05ffb.css",
-    "main.js": "/static/js/main.ea95535c.js",
-    "index.html": "/index.html",
-    "main.84e05ffb.css.map": "/static/css/main.84e05ffb.css.map",
-    "main.ea95535c.js.map": "/static/js/main.ea95535c.js.map"
+    "main.css": "/new-web-twitter-natalia-g-a/static/css/main.84e05ffb.css",
+    "main.js": "/new-web-twitter-natalia-g-a/static/js/main.ea95535c.js",
+    "index.html": "/new-web-twitter-natalia-g-a/index.html",
+    "main.84e05ffb.css.map": "/new-web-twitter-natalia-g-a/static/css/main.84e05ffb.css.map",
+    "main.ea95535c.js.map": "/new-web-twitter-natalia-g-a/static/js/main.ea95535c.js.map"
   },
   "entrypoints": [
     "static/css/main.84e05ffb.css",
