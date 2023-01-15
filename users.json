@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "userName": "Cattia",
+        "isFollowed": true
+    },
+
+    {
+        "id": 2,
+        "userName": "Mewtwo",
+        "isFollowed": true
+ 
+    },
+    {
+        "id": 3,
+        "userName": "Felius",
+        "isFollowed": false
+    },
+    {
+        "id": 4,
+        "userName": "Ruso",
+        "isFollowed": true
+    },
+
+    {
+        "id": 5,
+        "userName": "Abys",
+        "isFollowed": false
+ 
+    },
+    {
+        "id": 6,
+        "userName": "Kitty",
+        "isFollowed": false
+    },
+    {
+        "id": 7,
+        "userName": "NatCat",
+        "isFollowed": true
+    }
+
+]
