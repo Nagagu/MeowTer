@@ -1,39 +1,43 @@
-.userContainer{
-    width: 13vw;
-    height: 6vh;
-    display: flex;
-    justify-content: space-between;
-    margin: 1vh;
-    border: 1px solid rgb(182, 179, 179);
-    padding: 7px;
-    border-radius: 10px;
+.userContainer {
+  width: 13vw;
+  height: 6vh;
+  display: flex;
+  justify-content: space-between;
+  margin: 1vh;
+  border: 1px solid rgb(182, 179, 179);
+  padding: 7px;
+  border-radius: 10px;
 }
-.selectedUserButton{
-background-color: transparent;
-color:rgb(51, 156, 226);
-cursor: pointer;
-border: none;
-
+.selectedUserButton {
+  background-color: transparent;
+  color: rgb(51, 156, 226);
+  cursor: pointer;
+  border: none;
 }
-.userButton{
-background-color: transparent;
-cursor: pointer;
-border: none;
+.userButton {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
 }
-.followButton{
-font-size: 14px;
-padding: 1em;
-background-color: #34b2eb;
-color: white;
-border-radius: 10px;
-width: 4vw;
-height: 5vh;
-border: none;
-margin-top: 5px;
-cursor: pointer;
+.followButton {
+  font-size: 14px;
+  padding: 1em;
+  background-color: #34b2eb;
+  color: white;
+  border-radius: 10px;
+  width: 4vw;
+  height: 5vh;
+  border: none;
+  margin-top: 5px;
+  cursor: pointer;
 }
-.users{
-    background-color: white;
-    padding: 1em;
-    margin-bottom: 2vh;
+.followButton:hover {
+  /* color: black; */
+  background-color: #256c8f;
+}
+.users {
+  background-color: white;
+  padding: 1em;
+  margin-bottom: 2vh;
+  border-radius: 10px;
 }
